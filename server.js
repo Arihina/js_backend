@@ -6,11 +6,6 @@ const port = 8000;
 app.use(express.static('public'))
 
 
-app.get('/', function (req, res) {
-
-
-});
-
 app.get('/about', function (req, res) {
     const data = {
         'app': {
