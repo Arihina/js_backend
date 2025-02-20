@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Arihina/js_backend#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
   }
 }
